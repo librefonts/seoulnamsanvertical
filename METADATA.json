@@ -1,0 +1,23 @@
+{
+  "name": "UNKNOWN",
+  "designer": null,
+  "license": "",
+  "visibility": "Sandbox",
+  "category": "monospace",
+  "size": -1,
+  "fonts": [
+    {
+      "name": "UNKNOWN",
+      "style": "normal",
+      "weight": 400,
+      "filename": "SeoulNamsan-vert.ttf",
+      "postScriptName": "SeoulNamsanvertA",
+      "fullName": "",
+      "copyright": ""
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "dateAdded": "2014-10-07"
+}

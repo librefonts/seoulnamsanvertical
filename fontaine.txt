@@ -1,0 +1,41 @@
+Fonts
+  Font:
+    Common name: 서울남산체 세로쓰기
+    Sub family: 8\0
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright(c)2008. Seoul Metropolitan Government. All rights reserved.
+    License url: http://www.yoonfont.co.kr
+    Version: Version 1.05
+    Vendor url: http://www.yoonfont.co.kr
+    Glyph count: 18159
+    Character count: 17144
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: fragmentary
+          Percent coverage: 63
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: fragmentary
+          Percent coverage: 66
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: partial
+          Percent coverage: 84
